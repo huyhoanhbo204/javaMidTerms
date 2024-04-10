@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>3</id>
+        <name>Nguyễn Quang Huy</name>
+        <address>Tam Kỳ,Đà Nẵng</address>
+        <birthday>2003-01-01</birthday>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Nguyễn Văn B</name>
+        <address>Hà Nội</address>
+        <birthday>2000-01-03</birthday>
+    </student>
+    <student>
+        <id>5</id>
+        <name>Nguyễn Quang Huy</name>
+        <address></address>
+        <birthday>2005-04-03</birthday>
+    </student>
+</students>

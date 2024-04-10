@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+    <student>
+        <name>Nguyễn Quang Huy</name>
+        <age>21</age>
+        <sum>7</sum>
+        <isDigit>Có</isDigit>
+    </student>
+    <student>
+        <name>Nguyễn Văn B</name>
+        <age>24</age>
+        <sum>6</sum>
+        <isDigit>Không</isDigit>
+    </student>
+    <student>
+        <name>Nguyễn Quang Huy</name>
+        <age>19</age>
+        <sum>14</sum>
+        <isDigit>Không</isDigit>
+    </student>
+</results>
